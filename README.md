@@ -1,2 +1,2 @@
 # inkub_ensemble
- Incubation experiment with ensemble appoach
+ inkubation experiment with ensemble model appoache
